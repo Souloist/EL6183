@@ -1,7 +1,5 @@
 # EL 6183
-
 Fall 2015 - Digital signal processing lab
-
 ========================
 
 Real-time implementation of digital signal processing (DSP) algorithms, with an emphasis on audio signal processing and audio effects. Implementation will be done in python utlizing the pyaudio module.
