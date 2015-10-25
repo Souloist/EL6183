@@ -1,7 +1,3 @@
-# DSP LAB FALL 2015
-# Richard Shen
-# Section 1 Exercise 2
-
 import pyaudio
 import struct
 import numpy as np
